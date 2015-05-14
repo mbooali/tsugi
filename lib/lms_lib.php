@@ -8,6 +8,7 @@ require_once("vendor/Tsugi/Crypt/AesCtr.php");
 
 require_once("oauth.classes.php");
 require_once("vendor/Tsugi/Util/LTI.php");
+require_once("vendor/Tsugi/Util/Caliper.php");
 
 require_once("vendor/Tsugi/Core/User.php");
 require_once("vendor/Tsugi/Core/Context.php");
@@ -18,6 +19,9 @@ require_once("vendor/Tsugi/UI/CrudForm.php");
 require_once("vendor/Tsugi/UI/Table.php");
 require_once("vendor/Tsugi/UI/Output.php");
 require_once("vendor/Tsugi/UI/SettingsForm.php");
+
+require_once("vendor/Tsugi/Google/GoogleLogin.php");
+require_once("vendor/Tsugi/Google/JWT.php");
 
 use \Tsugi\Core\Cache;
 use \Tsugi\Core\LTIX;

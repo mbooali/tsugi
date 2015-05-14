@@ -14,7 +14,9 @@ for now this is the documentation I have:
 * [Internationalizing and Localizing](I18N.md)
 * [Notes on generating API Documentation using PhpDoc](PHPDOC.md)
 
-/Chuck
+Here are a set of Tsugi Exercises suitable for use in a class or workshop:
 
-Sun Sep 14 18:55:07 EDT 2014
+* [Exercises](EXERCISES.md)
+
+
 
